@@ -1,0 +1,10 @@
+class org/objectweb/asm/Handle
+getName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getDesc
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getOwner
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

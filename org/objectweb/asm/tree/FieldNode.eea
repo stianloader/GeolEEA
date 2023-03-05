@@ -1,0 +1,7 @@
+class org/objectweb/asm/tree/FieldNode
+name
+ Ljava/lang/String;
+ L1java/lang/String;
+desc
+ Ljava/lang/String;
+ L1java/lang/String;

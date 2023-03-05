@@ -1,0 +1,4 @@
+class java/lang/Character
+toString
+ (C)Ljava/lang/String;
+ (C)L1java/lang/String;

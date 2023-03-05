@@ -1,0 +1,7 @@
+class org/objectweb/asm/Type
+getDescriptor
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getInternalName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

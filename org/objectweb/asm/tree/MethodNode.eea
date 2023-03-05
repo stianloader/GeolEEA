@@ -1,0 +1,10 @@
+class org/objectweb/asm/tree/MethodNode
+name
+ Ljava/lang/String;
+ L1java/lang/String;
+desc
+ Ljava/lang/String;
+ L1java/lang/String;
+instructions
+ Lorg/objectweb/asm/tree/InsnList;
+ L1org/objectweb/asm/tree/InsnList;

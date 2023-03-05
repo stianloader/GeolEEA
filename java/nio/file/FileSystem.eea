@@ -1,0 +1,7 @@
+class java/nio/file/FileSystem
+getPath
+ (Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;
+ (L1java/lang/String;[L1java/lang/String;)L1java/nio/file/Path;
+getSeparator
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

@@ -1,0 +1,4 @@
+class org/objectweb/asm/tree/TypeInsnNode
+desc
+ Ljava/lang/String;
+ L1java/lang/String;

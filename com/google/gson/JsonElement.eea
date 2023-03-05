@@ -1,0 +1,4 @@
+class com/google/gson/JsonElement
+getAsString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

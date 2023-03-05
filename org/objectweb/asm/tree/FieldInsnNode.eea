@@ -1,0 +1,10 @@
+class org/objectweb/asm/tree/FieldInsnNode
+owner
+ Ljava/lang/String;
+ L1java/lang/String;
+name
+ Ljava/lang/String;
+ L1java/lang/String;
+desc
+ Ljava/lang/String;
+ L1java/lang/String;
