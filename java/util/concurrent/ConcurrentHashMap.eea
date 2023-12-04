@@ -1,0 +1,4 @@
+class java/util/concurrent/ConcurrentHashMap
+newKeySet
+ <K:Ljava/lang/Object;>()Ljava/util/concurrent/ConcurrentHashMap$KeySetView<TK;Ljava/lang/Boolean;>;
+ <K:Ljava/lang/Object;>()L1java/util/concurrent/ConcurrentHashMap$KeySetView<TK;Ljava/lang/Boolean;>;
