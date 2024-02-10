@@ -1,0 +1,22 @@
+class java/util/concurrent/CompletableFuture
+complete
+ (TT;)Z
+ (TT;)Z
+thenAccept
+ (Ljava/util/function/Consumer<-TT;>;)Ljava/util/concurrent/CompletableFuture<Ljava/lang/Void;>;
+ (L1java/util/function/Consumer<-TT;>;)L1java/util/concurrent/CompletableFuture<Ljava/lang/Void;>;
+exceptionally
+ (Ljava/util/function/Function<Ljava/lang/Throwable;+TT;>;)Ljava/util/concurrent/CompletableFuture<TT;>;
+ (L1java/util/function/Function<Ljava/lang/Throwable;+T0T;>;)L1java/util/concurrent/CompletableFuture<TT;>;
+thenApply
+ <U:Ljava/lang/Object;>(Ljava/util/function/Function<-TT;+TU;>;)Ljava/util/concurrent/CompletableFuture<TU;>;
+ <U:Ljava/lang/Object;>(L1java/util/function/Function<-TT;+TU;>;)L1java/util/concurrent/CompletableFuture<TU;>;
+failedFuture
+ <U:Ljava/lang/Object;>(Ljava/lang/Throwable;)Ljava/util/concurrent/CompletableFuture<TU;>;
+ <U:Ljava/lang/Object;>(L1java/lang/Throwable;)L1java/util/concurrent/CompletableFuture<TU;>;
+completedFuture
+ <U:Ljava/lang/Object;>(TU;)Ljava/util/concurrent/CompletableFuture<TU;>;
+ <U:Ljava/lang/Object;>(T0U;)L1java/util/concurrent/CompletableFuture<TU;>;
+exceptionallyCompose
+ (Ljava/util/function/Function<Ljava/lang/Throwable;Ljava/util/function/Function<+TT;>;>;)Ljava/util/concurrent/CompletableFuture<TT;>;
+ (L1java/util/function/Function<Ljava/lang/Throwable;L1java/util/function/Function<+TT;>;>;)L1java/util/concurrent/CompletableFuture<TT;>;

@@ -8,9 +8,15 @@ unmodifiableList
 unmodifiableSet
  <T:Ljava/lang/Object;>(Ljava/util/Set<+TT;>;)Ljava/util/Set<TT;>;
  <T:Ljava/lang/Object;>(L1java/util/Set<+TT;>;)L1java/util/Set<TT;>;
+unmodifiableNavigableSet
+ <T:Ljava/lang/Object;>(Ljava/util/NavigableSet<TT;>;)Ljava/util/NavigableSet<TT;>;
+ <T:Ljava/lang/Object;>(L1java/util/NavigableSet<TT;>;)L1java/util/NavigableSet<TT;>;
 emptyList
  <T:Ljava/lang/Object;>()Ljava/util/List<TT;>;
  <T:Ljava/lang/Object;>()L1java/util/List<TT;>;
+emptySet
+ <T:Ljava/lang/Object;>()Ljava/util/Set<TT;>;
+ <T:Ljava/lang/Object;>()L1java/util/Set<TT;>;
 singletonList
  <T:Ljava/lang/Object;>(TT;)Ljava/util/List<TT;>;
  <T:Ljava/lang/Object;>(TT;)L1java/util/List<TT;>;

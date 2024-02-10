@@ -1,0 +1,13 @@
+class java/net/URI
+toString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+create
+ (Ljava/lang/String;)Ljava/net/URI;
+ (L1java/lang/String;)L1java/net/URI;
+toURL
+ ()Ljava/net/URL;
+ ()L1java/net/URL;
+resolve
+ (Ljava/lang/String;)Ljava/net/URI;
+ (L1java/lang/String;)L1java/net/URI;

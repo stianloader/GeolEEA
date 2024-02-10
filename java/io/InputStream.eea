@@ -5,3 +5,12 @@ nullInputStream
 transferTo
  (Ljava/io/OutputStream;)J
  (L1java/io/OutputStream;)J
+readAllBytes
+ ()[B
+ ()[1B
+readNBytes
+ (I)[B
+ (I)[1B
+readNBytes
+ ([BII)I
+ ([1BII)I

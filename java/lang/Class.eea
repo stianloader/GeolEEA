@@ -1,0 +1,4 @@
+class java/lang/Class
+getClassLoader
+ ()Ljava/lang/ClassLoader;
+ ()L1java/lang/ClassLoader;
