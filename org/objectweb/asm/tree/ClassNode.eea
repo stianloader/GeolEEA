@@ -2,3 +2,9 @@ class org/objectweb/asm/tree/ClassNode
 name
  Ljava/lang/String;
  L1java/lang/String;
+superName
+ Ljava/lang/String;
+ L1java/lang/String;
+interfaces
+ Ljava/util/List<Ljava/lang/String;>;
+ L1java/util/List<L1java/lang/String;>;

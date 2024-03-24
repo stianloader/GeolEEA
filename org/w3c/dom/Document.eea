@@ -1,4 +1,4 @@
-class org/w2c/dom/Document
+class org/w3c/dom/Document
 getDocumentElement
- ()Lorg/w2c/dom/Element;
- ()L1org/w2c/dom/Element;
+ ()Lorg/w3c/dom/Element;
+ ()L1org/w3c/dom/Element;
