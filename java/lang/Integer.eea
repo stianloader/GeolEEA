@@ -2,3 +2,6 @@ class java/lang/Integer
 toString
  (I)Ljava/lang/String;
  (I)L1java/lang/String;
+toString
+ (II)Ljava/lang/String;
+ (II)L1java/lang/String;

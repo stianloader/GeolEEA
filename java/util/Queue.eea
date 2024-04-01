@@ -1,0 +1,10 @@
+class java/util/Queue
+remove
+ ()TE;
+ ()T1E;
+element
+ ()TE;
+ ()T1E;
+poll
+ ()TE;
+ ()T1E;
