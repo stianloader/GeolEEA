@@ -1,4 +1,4 @@
-class java/io/StringWriter
+class java/io/Writer
 toString
  ()Ljava/lang/String;
  ()L1java/lang/String;
@@ -9,5 +9,5 @@ write
  (Ljava/lang/String;II)V
  (L1java/lang/String;II)V
 write
- ([CII)V
- ([1CII)V
+ ([C)V
+ ([1C)V

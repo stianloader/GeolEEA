@@ -1,0 +1,4 @@
+class java/lang/Throwable
+fillInStackTrace
+ ()Ljava/lang/Throwable;
+ ()L1java/lang/Throwable;
