@@ -1,0 +1,4 @@
+class java/util/concurrent/ForkJoinPool
+commonPool
+ ()Ljava/util/concurrent/ForkJoinPool;
+ ()L1java/util/concurrent/ForkJoinPool;

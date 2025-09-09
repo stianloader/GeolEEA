@@ -1,0 +1,4 @@
+class java/lang/reflect/AccessibleObject
+getDeclaredAnnotation
+ <T::Ljava/lang/annotation/Annotation;>(Ljava/lang/Class<TT;>;)TT;
+ <T::Ljava/lang/annotation/Annotation;>(L1java/lang/Class<TT;>;)T0T;

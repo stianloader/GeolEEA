@@ -2,3 +2,9 @@ class java/lang/Class
 getClassLoader
  ()Ljava/lang/ClassLoader;
  ()L1java/lang/ClassLoader;
+getDeclaredMethods
+ ()[Ljava/lang/reflect/Method;
+ ()[1L1java/lang/reflect/Method;
+getName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

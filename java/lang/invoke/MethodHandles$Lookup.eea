@@ -1,0 +1,8 @@
+class java/lang/invoke/MethodHandles$Lookup
+
+findStatic
+ (Ljava/lang/Class<*>;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/MethodHandle;
+ (L1java/lang/Class<*>;L1java/lang/String;L1java/lang/invoke/MethodType;)L1java/lang/invoke/MethodHandle;
+findVirtual
+ (Ljava/lang/Class<*>;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/MethodHandle;
+ (L1java/lang/Class<*>;L1java/lang/String;L1java/lang/invoke/MethodType;)L1java/lang/invoke/MethodHandle;

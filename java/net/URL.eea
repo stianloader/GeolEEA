@@ -1,0 +1,13 @@
+class java/net/URL
+toString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+<init>
+ (Ljava/lang/String;)V
+ (L1java/lang/String;)V
+toURI
+ ()Ljava/net/URI;
+ ()L1java/net/URI;
+openStream
+ ()Ljava/io/InputStream;
+ ()L1java/io/InputStream;
