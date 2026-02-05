@@ -1,0 +1,8 @@
+class java/lang/invoke/MethodHandles
+
+foldArguments
+ (Ljava/lang/invoke/MethodHandle;Ljava/lang/invoke/MethodHandle;)Ljava/lang/invoke/MethodHandle;
+ (L1java/lang/invoke/MethodHandle;L1java/lang/invoke/MethodHandle;)L1java/lang/invoke/MethodHandle;
+dropReturn
+ (Ljava/lang/invoke/MethodHandle;)Ljava/lang/invoke/MethodHandle;
+ (L1java/lang/invoke/MethodHandle;)L1java/lang/invoke/MethodHandle;

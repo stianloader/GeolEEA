@@ -8,3 +8,6 @@ getDeclaredMethods
 getName
  ()Ljava/lang/String;
  ()L1java/lang/String;
+forName
+ (Ljava/lang/String;)Ljava/lang/Class<*>;
+ (L1java/lang/String;)L1java/lang/Class<*>;

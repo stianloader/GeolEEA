@@ -17,6 +17,9 @@ emptyList
 emptySet
  <T:Ljava/lang/Object;>()Ljava/util/Set<TT;>;
  <T:Ljava/lang/Object;>()L1java/util/Set<TT;>;
+emptySortedSet
+ <E:Ljava/lang/Object;>()Ljava/util/SortedSet<TE;>;
+ <E:Ljava/lang/Object;>()L1java/util/SortedSet<TE;>;
 singletonList
  <T:Ljava/lang/Object;>(TT;)Ljava/util/List<TT;>;
  <T:Ljava/lang/Object;>(TT;)L1java/util/List<TT;>;
