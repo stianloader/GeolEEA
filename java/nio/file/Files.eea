@@ -14,3 +14,6 @@ createTempFile
 readAllBytes
  (Ljava/nio/file/Path;)[B
  (L1java/nio/file/Path;)[1B
+list
+ (Ljava/nio/file/Path;)Ljava/util/stream/Stream<Ljava/nio/file/Path;>;
+ (L1java/nio/file/Path;)L1java/util/stream/Stream<L1java/nio/file/Path;>;

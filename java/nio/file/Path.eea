@@ -45,6 +45,9 @@ resolve
  (Ljava/lang/String;)Ljava/nio/file/Path;
  (L1java/lang/String;)L1java/nio/file/Path;
 resolve
+ (Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;
+ (L1java/lang/String;[1L1java/lang/String;)L1java/nio/file/Path;
+resolve
  (Ljava/nio/file/Path;)Ljava/nio/file/Path;
  (L1java/nio/file/Path;)L1java/nio/file/Path;
 resolveSibling

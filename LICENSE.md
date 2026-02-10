@@ -1,4 +1,4 @@
-Copyright (c) 2022 - 2025, Geolykt <emeric.werner@geolykt.de>
+Copyright (c) 2022 - 2026, Geolykt <emeric.werner@geolykt.de>
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:

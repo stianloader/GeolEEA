@@ -1,0 +1,10 @@
+class java/util/stream/Stream
+toArray
+ <A:Ljava/lang/Object;>(Ljava/util/function/IntFunction<[TA;>;)[TA;
+ <A:Ljava/lang/Object;>(L1java/util/function/IntFunction<[TA;>;)[1TA;
+toArray
+ ()[Ljava/lang/Object;
+ ()[1Ljava/lang/Object;
+toList
+ ()Ljava/util/List<TT;>;
+ ()L1java/util/List<TT;>;

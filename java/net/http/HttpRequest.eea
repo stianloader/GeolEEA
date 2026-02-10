@@ -1,0 +1,7 @@
+class java/net/http/HttpRequest
+uri
+ ()Ljava/net/URI;
+ ()L1java/net/URI;
+method
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
