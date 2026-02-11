@@ -11,6 +11,12 @@ createTempFile
 createTempFile
  (Ljava/lang/String;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute<*>;)Ljava/nio/file/Path;
  (L0java/lang/String;L0java/lang/String;[Ljava/nio/file/attribute/FileAttribute<*>;)L1java/nio/file/Path;
+createTempDirectory
+ (Ljava/nio/file/Path;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute<*>;)Ljava/nio/file/Path;
+ (L1java/nio/file/Path;L0java/lang/String;[Ljava/nio/file/attribute/FileAttribute<*>;)L1java/nio/file/Path;
+createTempDirectory
+ (Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute<*>;)Ljava/nio/file/Path;
+ (L0java/lang/String;[Ljava/nio/file/attribute/FileAttribute<*>;)L1java/nio/file/Path;
 readAllBytes
  (Ljava/nio/file/Path;)[B
  (L1java/nio/file/Path;)[1B

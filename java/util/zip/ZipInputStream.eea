@@ -1,0 +1,4 @@
+class java/util/zip/ZipInputStream
+readAllBytes
+ ()[B
+ ()[1B
