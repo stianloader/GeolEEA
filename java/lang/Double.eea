@@ -1,0 +1,4 @@
+class java/lang/Double
+toString
+ (D)Ljava/lang/String;
+ (D)L1java/lang/String;

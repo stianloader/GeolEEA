@@ -2,3 +2,27 @@ class java/util/Locale
 ROOT
  Ljava/util/Locale;
  L1java/util/Locale;
+ENGLISH
+ Ljava/util/Locale;
+ L1java/util/Locale;
+UK
+ Ljava/util/Locale;
+ L1java/util/Locale;
+US
+ Ljava/util/Locale;
+ L1java/util/Locale;
+GERMANY
+ Ljava/util/Locale;
+ L1java/util/Locale;
+forLanguageTag
+ (Ljava/lang/String;)Ljava/util/Locale;
+ (L1java/lang/String;)L1java/util/Locale;
+getDisplayName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getDisplayLanguage
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+toLanguageTag
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

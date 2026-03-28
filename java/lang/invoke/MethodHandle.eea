@@ -1,0 +1,8 @@
+class java/lang/invoke/MethodHandle
+
+asType
+ (Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/MethodHandle;
+ (L1java/lang/invoke/MethodType;)L1java/lang/invoke/MethodHandle;
+type
+ ()Ljava/lang/invoke/MethodType;
+ ()L1java/lang/invoke/MethodType;

@@ -1,0 +1,4 @@
+class java/util/Map
+keySet
+ ()Ljava/util/Set<TK;>;
+ ()L1java/util/Set<TK;>;
